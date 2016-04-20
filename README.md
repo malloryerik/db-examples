@@ -1,4 +1,4 @@
 # db-examples
 
-Web Development in Clojure 2nd Ed 
+Playing with the fine book, Web Development in Clojure 2nd Ed 
 
